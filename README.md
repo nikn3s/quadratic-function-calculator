@@ -1,3 +1,3 @@
 # quadratic-function-calculator
 
-n0.super.so
+n0.super.site
