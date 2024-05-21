@@ -1,3 +1,3 @@
 # quadratic-function-calculator
 
-[Website](niko.super.site)
+[Website](https://niko.super.site/quadratic-calculator-app)
