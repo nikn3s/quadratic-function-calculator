@@ -1,3 +1,4 @@
 # quadratic-function-calculator
 
-n0.super.site
+Website([niko.super.site
+])
